@@ -1,33 +1,139 @@
 {
-  "projects": [
+  "reviews": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "bookTitle": "To Kill a Mockingbird",
+      "genre": "Fiction",
+      "bookSummary": "A novel set in the Depression-era South, focusing on themes of racial injustice and moral growth.",
+      "likeOrDidntLike": "like",
+      "rating": 5,
+      "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "bookTitle": "1984",
+      "genre": "Dystopian",
+      "bookSummary": "A story about a totalitarian regime that uses surveillance and control to maintain power, warning against the dangers of authoritarianism.",
+      "likeOrDidntLike": "like",
+      "rating": 4,
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "bookTitle": "Pride and Prejudice",
+      "genre": "Romance",
+      "bookSummary": "A classic tale of love and misunderstanding in early 19th-century England, centered around Elizabeth Bennet and Mr. Darcy.",
+      "likeOrDidntLike": "like",
+      "rating": 5,
+      "image": "https://covers.openlibrary.org/b/id/8487869-L.jpg"
+    },
+    {
+      "id": 4,
+      "bookTitle": "The Great Gatsby",
+      "genre": "Classic",
+      "bookSummary": "A novel that explores themes of decadence, idealism, and social upheaval in 1920s America through the life of Jay Gatsby.",
+      "likeOrDidntLike": "didnt like",
+      "rating": 3,
+      "image": "https://covers.openlibrary.org/b/id/7352161-L.jpg"
+    },
+    {
+      "id": 5,
+      "bookTitle": "Moby-Dick",
+      "genre": "Adventure",
+      "bookSummary": "The epic tale of Captain Ahab's obsessive quest to kill the white whale, Moby Dick.",
+      "likeOrDidntLike": "didnt like",
+      "rating": 2,
+      "image": "https://covers.openlibrary.org/b/id/8107538-L.jpg"
+    },
+    {
+      "id": 6,
+      "bookTitle": "The Catcher in the Rye",
+      "genre": "Fiction",
+      "bookSummary": "A novel that delves into the thoughts and feelings of a troubled teenager, Holden Caulfield, as he navigates life in New York City.",
+      "likeOrDidntLike": "like",
+      "rating": 4,
+      "image": "https://covers.openlibrary.org/b/id/8228696-L.jpg"
+    },
+    {
+      "id": 7,
+      "bookTitle": "Brave New World",
+      "genre": "Dystopian",
+      "bookSummary": "A futuristic novel that explores the dangers of a society driven by technology, control, and artificial happiness.",
+      "likeOrDidntLike": "like",
+      "rating": 4,
+      "image": "https://covers.openlibrary.org/b/id/9275874-L.jpg"
+    },
+    {
+      "id": 8,
+      "bookTitle": "Jane Eyre",
+      "genre": "Gothic Romance",
+      "bookSummary": "The story of an orphaned girl, Jane Eyre, who overcomes hardships and finds love while staying true to her principles.",
+      "likeOrDidntLike": "like",
+      "rating": 5,
+      "image": "https://covers.openlibrary.org/b/id/8225322-L.jpg"
+    },
+    {
+      "id": 9,
+      "bookTitle": "The Hobbit",
+      "genre": "Fantasy",
+      "bookSummary": "A prelude to 'The Lord of the Rings', this book follows the adventures of Bilbo Baggins as he embarks on a quest to reclaim a lost kingdom.",
+      "likeOrDidntLike": "like",
+      "rating": 5,
+      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+    },
+    {
+      "id": 10,
+      "bookTitle": "Frankenstein",
+      "genre": "Horror",
+      "bookSummary": "A novel that explores the consequences of ambition and the pursuit of knowledge through the tragic tale of Dr. Frankenstein and his creation.",
+      "likeOrDidntLike": "didnt like",
+      "rating": 3,
+      "image": "https://covers.openlibrary.org/b/id/8234816-L.jpg"
+    },
+    {
+      "id": 11,
+      "bookTitle": "Crime and Punishment",
+      "genre": "Psychological Fiction",
+      "bookSummary": "A complex exploration of morality and guilt, following the life of Raskolnikov after he commits a murder.",
+      "likeOrDidntLike": "like",
+      "rating": 5,
+      "image": "https://covers.openlibrary.org/b/id/8315040-L.jpg"
+    },
+    {
+      "id": 12,
+      "bookTitle": "War and Peace",
+      "genre": "Historical Fiction",
+      "bookSummary": "A sweeping narrative that chronicles the lives of Russian aristocrats during the Napoleonic wars.",
+      "likeOrDidntLike": "didnt like",
+      "rating": 4,
+      "image": "https://covers.openlibrary.org/b/id/7274892-L.jpg"
+    },
+    {
+      "id": 13,
+      "bookTitle": "Wuthering Heights",
+      "genre": "Gothic Fiction",
+      "bookSummary": "A tale of passion, vengeance, and the supernatural, set on the Yorkshire moors.",
+      "likeOrDidntLike": "didnt like",
+      "rating": 3,
+      "image": "https://covers.openlibrary.org/b/id/8228697-L.jpg"
+    },
+    {
+      "id": 14,
+      "bookTitle": "Anna Karenina",
+      "genre": "Literary Fiction",
+      "bookSummary": "A tragic love story set in the high society of Russia, exploring themes of love, betrayal, and social change.",
+      "likeOrDidntLike": "like",
+      "rating": 5,
+      "image": "https://covers.openlibrary.org/b/id/7422170-L.jpg"
+    },
+    {
+      "id": 15,
+      "bookTitle": "The Picture of Dorian Gray",
+      "genre": "Philosophical Fiction",
+      "bookSummary": "A novel that delves into the nature of beauty, morality, and the consequences of living a life of hedonism.",
+      "likeOrDidntLike": "like",
+      "rating": 4,
+      "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
     }
   ]
 }
