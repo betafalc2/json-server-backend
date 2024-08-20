@@ -1,214 +1,257 @@
-{
-  "reviews": [
-    {
-      "id": 1,
-      "searchInfo": {
-        "textSnippet": "A novel set in the Depression-era South, focusing on themes of racial injustice and moral growth."
-      },
-      "volumeInfo": {
-        "title": "To Kill a Mockingbird",
-        "authors": "Harper Lee",
-        "categories": "Fiction",
-        "imageLinks": {
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
-        }
-      }
+[
+  {
+    "id": 1,
+    "searchInfo": {
+      "textSnippet": "A novel set in the Depression-era South, focusing on themes of racial injustice and moral growth."
     },
-    {
-      "id": 2,
-      "searchInfo": {
-        "textSnippet": "A story about a totalitarian regime that uses surveillance and control to maintain power, warning against the dangers of authoritarianism."
+    "volumeInfo": {
+      "title": "To Kill a Mockingbird",
+      "authors": "Harper Lee",
+      "categories": "Fiction",
+      "imageLinks": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
       },
-      "volumeInfo": {
-        "title": "1984",
-        "authors": "George Orwell",
-        "categories": "Dystopian",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/41sjzA8EGhL._SY445_SX342_.jpg"
-        }
-      }
-    },
-    {
-      "id": 3,
-      "searchInfo": {
-        "textSnippet": "A classic tale of love and misunderstanding in early 19th-century England, centered around Elizabeth Bennet and Mr. Darcy."
-      },
-      "volumeInfo": {
-        "title": "Pride and Prejudice",
-        "authors": "Jane Austen",
-        "categories": "Romance",
-        "imageLinks": {
-          "thumbnail": "https://images3.penguinrandomhouse.com/cover/9780593622452"
-        }
-      }
-    },
-    {
-      "id": 4,
-      "searchInfo": {
-        "textSnippet": "A novel that explores themes of decadence, idealism, and social upheaval in 1920s America through the life of Jay Gatsby."
-      },
-      "volumeInfo": {
-        "title": "The Great Gatsby",
-        "authors": "F. Scott Fitzgerald",
-        "categories": "Classic",
-        "imageLinks": {
-          "thumbnail": "https://images.booksense.com/images/694/767/9781936767694.jpg"
-        }
-      }
-    },
-    {
-      "id": 5,
-      "searchInfo": {
-        "textSnippet": "The epic tale of Captain Ahab's obsessive quest to kill the white whale, Moby Dick."
-      },
-      "volumeInfo": {
-        "title": "Moby-Dick",
-        "authors": "Herman Melville",
-        "categories": "Adventure",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/41jpBSfnVWL._SY445_SX342_.jpg"
-        }
-      }
-    },
-    {
-      "id": 6,
-      "searchInfo": {
-        "textSnippet": "A novel that delves into the thoughts and feelings of a troubled teenager, Holden Caulfield, as he navigates life in New York City."
-      },
-      "volumeInfo": {
-        "title": "The Catcher in the Rye",
-        "authors": "J.D. Salinger",
-        "categories": "Fiction",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/91fQEUwFMyL._SL1500_.jpg"
-        }
-      }
-    },
-    {
-      "id": 7,
-      "searchInfo": {
-        "textSnippet": "A futuristic novel that explores the dangers of a society driven by technology, control, and artificial happiness."
-      },
-      "volumeInfo": {
-        "title": "Brave New World",
-        "authors": "Aldous Huxley",
-        "categories": "Dystopian",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/411MY5+ApVL._SY445_SX342_.jpg"
-        }
-      }
-    },
-    {
-      "id": 8,
-      "searchInfo": {
-        "textSnippet": "The story of an orphaned girl, Jane Eyre, who overcomes hardships and finds love while staying true to her principles."
-      },
-      "volumeInfo": {
-        "title": "Jane Eyre",
-        "authors": "Charlotte Brontë",
-        "categories": "Gothic Romance",
-        "imageLinks": {
-          "thumbnail": "https://images.booksense.com/images/320/430/9788417430320.jpg"
-        }
-      }
-    },
-    {
-      "id": 9,
-      "searchInfo": {
-        "textSnippet": "A prelude to 'The Lord of the Rings', this book follows the adventures of Bilbo Baggins as he embarks on a quest to reclaim a lost kingdom."
-      },
-      "volumeInfo": {
-        "title": "The Hobbit",
-        "authors": "J.R.R. Tolkien",
-        "categories": "Fantasy",
-        "imageLinks": {
-          "thumbnail": "https://mymomentsofbeing.wordpress.com/wp-content/uploads/2012/11/the-hobbit.jpg?w=480&h=735"
-        }
-      }
-    },
-    {
-      "id": 10,
-      "searchInfo": {
-        "textSnippet": "A novel that explores the consequences of ambition and the pursuit of knowledge through the tragic tale of Dr. Frankenstein and his creation."
-      },
-      "volumeInfo": {
-        "title": "Frankenstein",
-        "authors": "Mary Shelley",
-        "categories": "Horror",
-        "imageLinks": {
-          "thumbnail": "https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/155d73b570b90ded8a140526fcb8f2da/a/d/adg-0000001045_1_jpg.webp"
-        }
-      }
-    },
-    {
-      "id": 11,
-      "searchInfo": {
-        "textSnippet": "A complex exploration of morality and guilt, following the life of Raskolnikov after he commits a murder."
-      },
-      "volumeInfo": {
-        "title": "Crime and Punishment",
-        "authors": "Fyodor Dostoevsky",
-        "categories": "Psychological Fiction",
-        "imageLinks": {
-          "thumbnail": "https://images.booksense.com/images/505/734/9780679734505.jpg"
-        }
-      }
-    },
-    {
-      "id": 12,
-      "searchInfo": {
-        "textSnippet": "A sweeping narrative that chronicles the lives of Russian aristocrats during the Napoleonic wars."
-      },
-      "volumeInfo": {
-        "title": "War and Peace",
-        "authors": "Leo Tolstoy",
-        "categories": "Historical Fiction",
-        "imageLinks": {
-          "thumbnail": "https://www.nobleobjects.com/cdn/shop/articles/WarPeace_1-300391_150x.jpg?v=1605747682"
-        }
-      }
-    },
-    {
-      "id": 13,
-      "searchInfo": {
-        "textSnippet": "A tale of passion, vengeance, and the supernatural, set on the Yorkshire moors."
-      },
-      "volumeInfo": {
-        "title": "Wuthering Heights",
-        "authors": "Emily Brontë",
-        "categories": "Gothic Fiction",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/41bqmOFoaPL._SY445_SX342_.jpg"
-        }
-      }
-    },
-    {
-      "id": 14,
-      "searchInfo": {
-        "textSnippet": "A tragic love story set in the high society of Russia, exploring themes of love, betrayal, and social change."
-      },
-      "volumeInfo": {
-        "title": "Anna Karenina",
-        "authors": "Leo Tolstoy",
-        "categories": "Literary Fiction",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/51gbqwxUuhL._SY445_SX342_.jpg"
-        }
-      }
-    },
-    {
-      "id": 15,
-      "searchInfo": {
-        "textSnippet": "A novel that delves into the nature of beauty, morality, and the consequences of living a life of hedonism."
-      },
-      "volumeInfo": {
-        "title": "The Picture of Dorian Gray",
-        "authors": "Oscar Wilde",
-        "categories": "Philosophical Fiction",
-        "imageLinks": {
-          "thumbnail": "https://m.media-amazon.com/images/I/518HqIafIHL._SY445_SX342_.jpg"
-        }
-      }
+      "review": "An incredible exploration of moral and social issues through a compelling narrative.",
+      "reviewname":"beta",
+      "rating": 5
     }
-  ]
-}
+  },
+  {
+    "id": 2,
+    "searchInfo": {
+      "textSnippet": "A story about a totalitarian regime that uses surveillance and control to maintain power, warning against the dangers of authoritarianism."
+    },
+    "volumeInfo": {
+      "title": "1984",
+      "authors": "George Orwell",
+      "categories": "Dystopian",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/41sjzA8EGhL._SY445_SX342_.jpg"
+      },
+      "review": "A chilling and profound commentary on the dangers of absolute power and oppression.",
+      "reviewname":"beta",
+      "rating": 4
+    }
+  },
+  {
+    "id": 3,
+    "searchInfo": {
+      "textSnippet": "A classic tale of love and misunderstanding in early 19th-century England, centered around Elizabeth Bennet and Mr. Darcy."
+    },
+    "volumeInfo": {
+      "title": "Pride and Prejudice",
+      "authors": "Jane Austen",
+      "categories": "Romance",
+      "imageLinks": {
+        "thumbnail": "https://images3.penguinrandomhouse.com/cover/9780593622452"
+      },
+      "review": "A timeless romance that delves into issues of class, family, and societal expectations.",
+      "reviewname":"beta",
+      "rating": 5
+    }
+  },
+  {
+    "id": 4,
+    "searchInfo": {
+      "textSnippet": "A novel that explores themes of decadence, idealism, and social upheaval in 1920s America through the life of Jay Gatsby."
+    },
+    "volumeInfo": {
+      "title": "The Great Gatsby",
+      "authors": "F. Scott Fitzgerald",
+      "categories": "Classic",
+      "imageLinks": {
+        "thumbnail": "https://images.booksense.com/images/694/767/9781936767694.jpg"
+      },
+      "review": "A poignant reflection on the American Dream and the hollow pursuit of wealth.",
+      "reviewname":"beta",
+      "rating": 3
+    }
+  },
+  {
+    "id": 5,
+    "searchInfo": {
+      "textSnippet": "The epic tale of Captain Ahab's obsessive quest to kill the white whale, Moby Dick."
+    },
+    "volumeInfo": {
+      "title": "Moby-Dick",
+      "authors": "Herman Melville",
+      "categories": "Adventure",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/41jpBSfnVWL._SY445_SX342_.jpg"
+      },
+      "review": "A dense and complex narrative that explores obsession, revenge, and the human condition.",
+      "reviewname":"beta",
+      "rating": 2
+    }
+  },
+  {
+    "id": 6,
+    "searchInfo": {
+      "textSnippet": "A novel that delves into the thoughts and feelings of a troubled teenager, Holden Caulfield, as he navigates life in New York City."
+    },
+    "volumeInfo": {
+      "title": "The Catcher in the Rye",
+      "authors": "J.D. Salinger",
+      "categories": "Fiction",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/91fQEUwFMyL._SL1500_.jpg"
+      },
+      "review": "An iconic novel that captures the angst and alienation of adolescence.",
+      "reviewname":"beta",
+      "rating": 4
+    }
+  },
+  {
+    "id": 7,
+    "searchInfo": {
+      "textSnippet": "A futuristic novel that explores the dangers of a society driven by technology, control, and artificial happiness."
+    },
+    "volumeInfo": {
+      "title": "Brave New World",
+      "authors": "Aldous Huxley",
+      "categories": "Dystopian",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/411MY5+ApVL._SY445_SX342_.jpg"
+      },
+      "review": "A dystopian masterpiece that warns against the perils of technological and social engineering.",
+      "reviewname":"beta",
+      "rating": 4
+    }
+  },
+  {
+    "id": 8,
+    "searchInfo": {
+      "textSnippet": "The story of an orphaned girl, Jane Eyre, who overcomes hardships and finds love while staying true to her principles."
+    },
+    "volumeInfo": {
+      "title": "Jane Eyre",
+      "authors": "Charlotte Brontë",
+      "categories": "Gothic Romance",
+      "imageLinks": {
+        "thumbnail": "https://images.booksense.com/images/320/430/9788417430320.jpg"
+      },
+      "review": "A powerful narrative of love, independence, and moral integrity.",
+      "reviewname":"beta",
+      "rating": 5
+    }
+  },
+  {
+    "id": 9,
+    "searchInfo": {
+      "textSnippet": "A prelude to 'The Lord of the Rings', this book follows the adventures of Bilbo Baggins as he embarks on a quest to reclaim a lost kingdom."
+    },
+    "volumeInfo": {
+      "title": "The Hobbit",
+      "authors": "J.R.R. Tolkien",
+      "categories": "Fantasy",
+      "imageLinks": {
+        "thumbnail": "https://mymomentsofbeing.wordpress.com/wp-content/uploads/2012/11/the-hobbit.jpg?w=480&h=735"
+      },
+      "review": "A charming and adventurous tale that introduces readers to the world of Middle-earth.",
+      "reviewname":"beta",
+      "rating": 5
+    }
+  },
+  {
+    "id": 10,
+    "searchInfo": {
+      "textSnippet": "A novel that explores the consequences of ambition and the pursuit of knowledge through the tragic tale of Dr. Frankenstein and his creation."
+    },
+    "volumeInfo": {
+      "title": "Frankenstein",
+      "authors": "Mary Shelley",
+      "categories": "Horror",
+      "imageLinks": {
+        "thumbnail": "https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/155d73b570b90ded8a140526fcb8f2da/a/d/adg-0000001045_1_jpg.webp"
+      },
+      "review": "A haunting story that delves into the ethical dilemmas of scientific experimentation.",
+      "reviewname":"beta",
+      "rating": 3
+    }
+  },
+  {
+    "id": 11,
+    "searchInfo": {
+      "textSnippet": "A complex exploration of morality and guilt, following the life of Raskolnikov after he commits a murder."
+    },
+    "volumeInfo": {
+      "title": "Crime and Punishment",
+      "authors": "Fyodor Dostoevsky",
+      "categories": "Psychological Fiction",
+      "imageLinks": {
+        "thumbnail": "https://images.booksense.com/images/505/734/9780679734505.jpg"
+      },
+      "review": "A psychological thriller that probes deep into the human psyche.",
+      "reviewname":"beta",
+      "rating": 5
+    }
+  },
+  {
+    "id": 12,
+    "searchInfo": {
+      "textSnippet": "A sweeping narrative that chronicles the lives of Russian aristocrats during the Napoleonic wars."
+    },
+    "volumeInfo": {
+      "title": "War and Peace",
+      "authors": "Leo Tolstoy",
+      "categories": "Historical Fiction",
+      "imageLinks": {
+        "thumbnail": "https://www.nobleobjects.com/cdn/shop/articles/WarPeace_1-300391_150x.jpg?v=1605747682"
+      },
+      "review": "An epic novel that intertwines personal stories with historical events.",
+      "reviewname":"beta",
+      "rating": 4
+    }
+  },
+  {
+    "id": 13,
+    "searchInfo": {
+      "textSnippet": "A tale of passion, vengeance, and the supernatural, set on the Yorkshire moors."
+    },
+    "volumeInfo": {
+      "title": "Wuthering Heights",
+      "authors": "Emily Brontë",
+      "categories": "Gothic Fiction",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/41bqmOFoaPL._SY445_SX342_.jpg"
+      },
+      "review": "A dark and intense story of love and revenge.",
+      "reviewname":"beta",
+      "rating": 3
+    }
+  },
+  {
+    "id": 14,
+    "searchInfo": {
+      "textSnippet": "A tragic love story set in the high society of Russia, exploring themes of love, betrayal, and social change."
+    },
+    "volumeInfo": {
+      "title": "Anna Karenina",
+      "authors": "Leo Tolstoy",
+      "categories": "Literary Fiction",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/51gbqwxUuhL._SY445_SX342_.jpg"
+      },
+      "review": "A profound exploration of the complexities of love and the constraints of society.",
+      "reviewname":"beta",
+      "rating": 5
+    }
+  },
+  {
+    "id": 15,
+    "searchInfo": {
+      "textSnippet": "A novel that delves into the nature of beauty, morality, and the consequences of living a life of hedonism."
+    },
+    "volumeInfo": {
+      "title": "The Picture of Dorian Gray",
+      "authors": "Oscar Wilde",
+      "categories": "Philosophical Fiction",
+      "imageLinks": {
+        "thumbnail": "https://m.media-amazon.com/images/I/518HqIafIHL._SY445_SX342_.jpg"
+      },
+      "review": "A fascinating study of vanity, corruption, and the double-edged sword of eternal youth.",
+      "reviewname":"beta",
+      "rating": 4
+    }
+  }
+]
