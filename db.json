@@ -12,7 +12,7 @@
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
       },
       "review": "An incredible exploration of moral and social issues through a compelling narrative.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 5
     }
   },
@@ -29,7 +29,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/41sjzA8EGhL._SY445_SX342_.jpg"
       },
       "review": "A chilling and profound commentary on the dangers of absolute power and oppression.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 4
     }
   },
@@ -46,7 +46,7 @@
         "thumbnail": "https://images3.penguinrandomhouse.com/cover/9780593622452"
       },
       "review": "A timeless romance that delves into issues of class, family, and societal expectations.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 5
     }
   },
@@ -63,7 +63,7 @@
         "thumbnail": "https://images.booksense.com/images/694/767/9781936767694.jpg"
       },
       "review": "A poignant reflection on the American Dream and the hollow pursuit of wealth.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 3
     }
   },
@@ -80,7 +80,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/41jpBSfnVWL._SY445_SX342_.jpg"
       },
       "review": "A dense and complex narrative that explores obsession, revenge, and the human condition.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 2
     }
   },
@@ -97,7 +97,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/91fQEUwFMyL._SL1500_.jpg"
       },
       "review": "An iconic novel that captures the angst and alienation of adolescence.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 4
     }
   },
@@ -114,7 +114,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/411MY5+ApVL._SY445_SX342_.jpg"
       },
       "review": "A dystopian masterpiece that warns against the perils of technological and social engineering.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 4
     }
   },
@@ -131,7 +131,7 @@
         "thumbnail": "https://images.booksense.com/images/320/430/9788417430320.jpg"
       },
       "review": "A powerful narrative of love, independence, and moral integrity.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 5
     }
   },
@@ -148,7 +148,7 @@
         "thumbnail": "https://mymomentsofbeing.wordpress.com/wp-content/uploads/2012/11/the-hobbit.jpg?w=480&h=735"
       },
       "review": "A charming and adventurous tale that introduces readers to the world of Middle-earth.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 5
     }
   },
@@ -165,7 +165,7 @@
         "thumbnail": "https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/155d73b570b90ded8a140526fcb8f2da/a/d/adg-0000001045_1_jpg.webp"
       },
       "review": "A haunting story that delves into the ethical dilemmas of scientific experimentation.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 3
     }
   },
@@ -182,7 +182,7 @@
         "thumbnail": "https://images.booksense.com/images/505/734/9780679734505.jpg"
       },
       "review": "A psychological thriller that probes deep into the human psyche.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 5
     }
   },
@@ -199,7 +199,7 @@
         "thumbnail": "https://www.nobleobjects.com/cdn/shop/articles/WarPeace_1-300391_150x.jpg?v=1605747682"
       },
       "review": "An epic novel that intertwines personal stories with historical events.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 4
     }
   },
@@ -216,7 +216,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/41bqmOFoaPL._SY445_SX342_.jpg"
       },
       "review": "A dark and intense story of love and revenge.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 3
     }
   },
@@ -233,7 +233,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/51gbqwxUuhL._SY445_SX342_.jpg"
       },
       "review": "A profound exploration of the complexities of love and the constraints of society.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 5
     }
   },
@@ -250,7 +250,7 @@
         "thumbnail": "https://m.media-amazon.com/images/I/518HqIafIHL._SY445_SX342_.jpg"
       },
       "review": "A fascinating study of vanity, corruption, and the double-edged sword of eternal youth.",
-      "reviewname":"beta",
+      "reviewName":"beta",
       "rating": 4
     }
   }
